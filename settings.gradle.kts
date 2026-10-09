@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LiteracyApp"
+rootProject.name = "ZhiLiteracyApp"
 include(":app")
